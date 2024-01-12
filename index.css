@@ -1,0 +1,12 @@
+/* first section */
+.hero-image{
+    height: 25rem;
+}
+.btn-read{
+    border: 1px solid #112d4e;
+    background-color: #eaeaea;
+    color: #112d4e;
+}
+.btn-read:hover{
+    background-color: #a9a9a9;
+}
