@@ -32,6 +32,11 @@
     background-color: #112d4e;
     color: white;
 }
+
+.nav-link {
+
+    color: #112d4e;
+}
 .nav-hover{
     color: #112d4e;
 }
