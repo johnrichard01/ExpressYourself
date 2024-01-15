@@ -35,13 +35,21 @@
     margin-top: 30px;
 }
 
-
-/*CONTACT US BOTTOM*/
-
-
 .message--us {
     color: #112d4e;
+    display: flex;
+    justify-content: center;
 }
+
+.message--feedback {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
 .contact--form {
     margin-top: 50px;
     padding: 10px;
@@ -61,11 +69,7 @@
 
 .form--wrapper {
     padding-top: 0;
-}
-
-@media (max-width: 767px) {
-    .custom--padding {
-        padding-left: 150px;
-        padding-right: 150px;
-    }
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
