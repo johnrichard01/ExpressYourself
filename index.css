@@ -10,3 +10,19 @@
 .btn-read:hover{
     background-color: #a9a9a9;
 }
+/* for last section */
+.image-recent{
+    height: 15rem;
+}
+.recent-categ{
+    color: red;
+}
+.popular-box{
+    background-color: #7BD3EA;
+    height: 2rem;
+    border-radius: 5px;
+    color: white;
+}
+.popular-title{
+    color: #112d4e;
+}
