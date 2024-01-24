@@ -48,11 +48,6 @@ body {
     background: white;
 }
 
-.container,
-.form__input,
-.form__button {
-    font: 500 1rem 'verdana', sans-serif;
-}
 
 .form--hidden {
     display: none;
@@ -126,7 +121,7 @@ body {
 
 .form__button {
     width: 100%;
-    padding: 1rem 2rem;
+    padding: 10px;
     font-weight: bold;
     font-size: 1.1rem;
     color: white;
@@ -168,3 +163,13 @@ body {
 .field-warning {
     color: rgb(175, 5, 5);
 }
+
+.form--hidden {
+    display: none;
+}
+
+.form__link {
+    color: #112d4e;
+}
+
+
